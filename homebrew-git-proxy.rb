@@ -9,6 +9,7 @@ class HomebrewGitProxy < Formula
   sha1 ""
 
   def install
+    bin.install "git-proxy-server-install"
     bin.install "git-proxy-install"
     bin.install "git-proxy-on"
     bin.install "git-proxy-off"
