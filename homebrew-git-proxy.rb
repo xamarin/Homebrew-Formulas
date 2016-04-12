@@ -4,8 +4,8 @@
 
 class HomebrewGitProxy < Formula
   homepage ""
-  url "https://github.com/xamarin/homebrew-git-proxy/archive/homebrew/9.tar.gz"
-  version "9"
+  url "https://github.com/xamarin/homebrew-git-proxy/archive/homebrew/10.tar.gz"
+  version "10"
   sha1 ""
 
   def install
