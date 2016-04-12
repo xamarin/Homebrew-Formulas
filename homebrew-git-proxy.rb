@@ -4,7 +4,7 @@
 
 class HomebrewGitProxy < Formula
   homepage ""
-  url "https://github.com/joewstroman/homebrew-git-proxy/archive/homebrew/9.tar.gz"
+  url "https://github.com/xamarin/homebrew-git-proxy/archive/homebrew/9.tar.gz"
   version "9"
   sha1 ""
 
