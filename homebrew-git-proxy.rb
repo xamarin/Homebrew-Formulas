@@ -4,8 +4,8 @@
 
 class HomebrewGitProxy < Formula
   homepage ""
-  url "http://storage.bos.xamarin.com/bot-provisioning/homebrew-14.tar.gz"
-  version "14"
+  url "http://storage.bos.xamarin.com/bot-provisioning/homebrew-15.tar.gz"
+  version "15"
   sha1 ""
 
   def install
